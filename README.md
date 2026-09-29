@@ -1,4 +1,4 @@
-project:
+project Report :
  
  # StockSphere — MERN Stock Trading Platform
 
