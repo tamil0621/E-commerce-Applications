@@ -1,4 +1,6 @@
-# StockSphere — MERN Stock Trading Platform
+project:
+ 
+ # StockSphere — MERN Stock Trading Platform
 
 A modern full-stack MERN stock trading simulation with JWT authentication, virtual cash, portfolio tracking, market dashboard, charts, and admin moderation.
 
